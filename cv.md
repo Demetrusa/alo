@@ -40,6 +40,7 @@ My name is Demetre Kurdadze, I live in Georgia, Rustavi, 27 years old. While stu
 ```javascript
     function Skill () {
     const [skill, setSkill] = useState([]);
+    const [selected, setSelected] = useState('');
      useEffect(()=>{
         fetch('https://bootcamp-2022.devtest.ge/api/skills')
         .then( (response) => response.json())
