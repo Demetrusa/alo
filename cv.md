@@ -81,16 +81,15 @@ My name is Demetre Kurdadze, I live in Georgia, Rustavi, 27 years old. While stu
   * Direction: Management (2018-2021)
 
 ---
----
 ### Experience 
 * Mini projects for apliactions
 ---
+
 ### languages
 ---
+
 - Georgian - native
 - English - B2+
 - Russian - fluent
-
----
 
 
